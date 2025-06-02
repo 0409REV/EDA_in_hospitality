@@ -39,7 +39,7 @@ This Jupyter Notebook project analyzes hotel booking data to uncover key pattern
 
 ## 📁 File Included
 
-- `hotels_analysis.ipynb` – The complete notebook containing data cleaning, visualizations, and insights.
+- `data.ipynb` – The complete notebook containing data cleaning, visualizations, and insights.
 
 ---
 
