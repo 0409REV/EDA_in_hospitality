@@ -1,39 +1,48 @@
-🏨 Hotel Booking Data Analysis (Jupyter Notebook)
-📌 Project Overview
-This project explores and analyzes hotel booking data using Python in a Jupyter Notebook environment. The goal is to uncover key patterns in customer behavior, booking trends, cancellations, and revenue-generating insights for hotel businesses.
+# 🏨 Hotel Booking Data Analysis
 
-✅ Key Features
-Data Cleaning & Preprocessing
+## 📌 Project Overview
 
-Handling missing values, outliers, and data formatting
+This Jupyter Notebook project analyzes hotel booking data to uncover key patterns in customer behavior, booking trends, cancellations, and revenue-impacting insights for hotel businesses.
 
-Feature engineering for better analysis
+---
 
-Exploratory Data Analysis (EDA)
+## ✅ Key Features
 
-Analysis of booking sources, hotel types, and customer segments
+### 🔄 Data Cleaning & Preprocessing
+- Handling missing values, outliers, and formatting issues
+- Feature engineering to enhance analysis
 
-Seasonal trends and cancellation patterns
+### 📊 Exploratory Data Analysis (EDA)
+- Analysis of booking sources, hotel types, and customer segments
+- Seasonal trends and cancellation patterns
+- Revenue-impacting metrics and comparisons
 
-Revenue-impacting metrics and visualizations
+### 📈 Visualizations
+- Interactive plots using Matplotlib & Seaborn
+- Pie charts, bar plots, and time series analysis
 
-Visualizations
+### 💡 Business Insights
+- Identifying peak booking periods
+- Customer demographics and behavior
+- Recommendations for reducing cancellations
 
-Matplotlib and Seaborn plots for insights
+---
 
-Pie charts, bar plots, time series trends
+## 🛠 Technologies Used
 
-Business Insights
+- **Python**
+- **Pandas**, **NumPy**
+- **Matplotlib**, **Seaborn**
+- **Jupyter Notebook**
 
-When and why customers cancel bookings
+---
 
-Popular hotel types and months for bookings
+## 📁 File Included
 
-Country-wise guest distribution
+- `hotels_analysis.ipynb` – The complete notebook containing data cleaning, visualizations, and insights.
 
-🛠 Technologies Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+---
 
-Jupyter Notebook
+## 📍 Objective
 
-CSV Dataset (presumably loaded within the notebook)
+To enable data-driven decision-making for hotel businesses by extracting actionable insights from historical booking data.
